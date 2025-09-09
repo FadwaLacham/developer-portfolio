@@ -1,23 +1,23 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Globex Corporation',
-        jobtitle: 'Frontend Developer',
-        startYear: '2018',
-        endYear: '2019'
+        company: 'OCP Group',
+        jobtitle: 'Graduation Internship - Intelligent Industrial Chatbot Development',
+        startYear: 'Feb 2025',
+        endYear: 'Jun 2025'
     },
     {
         id: 2,
-        company: 'Vehement Capital Partners',
-        jobtitle: 'Backend Developer',
-        startYear: '2019',
-        endYear: '2020'
+        company: 'DXC Technology',
+        jobtitle: 'Internship - Stock Management Prediction Project',
+        startYear: 'Jul 2024',
+        endYear: 'Aug 2024'
     },
     {
         id: 3,
-        company: 'Wonka Industries',
-        jobtitle: 'Marketing',
-        startYear: '2020',
-        endYear: 'Present'
-    },
-]
+        company: 'Xhub',
+        jobtitle: 'Internship - NLP Model Training for Darija',
+        startYear: 'Jul 2023',
+        endYear: 'Aug 2023'
+    }
+];

@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        institution: 'ENSIAS',
+        course: 'Engineering Degree in Data Science and IoT',
+        startYear: '2022',
+        endYear: '2025'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
+        institution: 'Lycée Technique Errazi',
+        course: 'Preparatory Classes for Engineering Schools',
+        startYear: '2020',
+        endYear: '2022'
     },
     {
         id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
+        institution: 'Essor',
+        course: 'High School Diploma in Mathematics A',
         startYear: '2019',
-        endYear: 'Present'
+        endYear: '2020'
     },
 ]
