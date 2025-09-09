@@ -41,8 +41,8 @@ export const projectsData = [
         projectName: 'Breast Cancer Screening App',
         projectDesc: 'CNN-based application for mammogram classification with DenseNet201, VGG16, and VGG19 architectures.',
         tags: ['Python', 'TensorFlow', 'CNN', 'DenseNet201', 'Flask', 'Bootstrap'],
-        code: 'https://github.com/yourusername/breast-cancer-app',
-        demo: 'https://yourdemo-link.com/breast-cancer-app',
+        code: 'https://github.com/FadwaLacham/Breast-Cancer-Screening.git',
+        demo: 'https://drive.google.com/file/d/1K45KIDGH-Qx-C6qWmzdzSGloGDqxBwzC/view?usp=drive_link',
         image: four
     },
     {
@@ -50,7 +50,7 @@ export const projectsData = [
         projectName: 'Sentiment Analysis',
         projectDesc: 'Sentiment analysis of Amazon reviews using VADER and RoBERTa models for classification.',
         tags: ['Python', 'NLP', 'VADER', 'RoBERTa', 'Sentiment Analysis'],
-        code: 'https://github.com/yourusername/sentiment-analysis',
+        code: 'https://github.com/FadwaLacham/Sentiment-Analysis.git',
         demo: 'https://yourdemo-link.com/sentiment-analysis',
         image: five
     }
