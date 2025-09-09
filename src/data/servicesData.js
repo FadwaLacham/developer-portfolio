@@ -1,81 +1,73 @@
 /* eslint-disable */
-import { BiShoppingBag, BiPencil } from "react-icons/bi";
 import { BsCodeSlash, BsClipboardData } from "react-icons/bs";
-import { AiOutlineMail, AiFillAudio } from "react-icons/ai";
-import { FaInternetExplorer,  FaChalkboardTeacher, FaCameraRetro, FaPinterest, FaVideo, FaTabletAlt, FaRegNewspaper } from "react-icons/fa";
-
- 
+import { AiOutlineMail, AiOutlineCloudServer, AiOutlineRobot } from "react-icons/ai";
+import { FaChartLine, FaDatabase, FaNetworkWired, FaPython, FaBrain } from "react-icons/fa";
+import { SiTensorflow, SiMicrosoft, SiPowerbi } from "react-icons/si";
 
 export const servicesData = [
-    // {
-    //     id: 1,
-    //     title: 'Marketing',
-    //     icon: <BiShoppingBag/>
-    // },
+    {
+        id: 1,
+        title: 'Data Science',
+        icon: <BsClipboardData />
+    },
     {
         id: 2,
-        title: 'Content Writing',
-        icon: <BiPencil /> 
+        title: 'Machine Learning',
+        icon: <FaBrain />
     },
     {
         id: 3,
-        title: 'Email Marketing',
+        title: 'AI Development',
+        icon: <AiOutlineRobot />
+    },
+    {
+        id: 4,
+        title: 'NLP Solutions',
         icon: <AiOutlineMail />
     },
-    // {
-    //     id: 4,
-    //     title: 'Internet Research',
-    //     icon: <FaInternetExplorer />
-    // },
-    // {
-    //     id: 5,
-    //     title: 'Tutoring',
-    //     icon: <FaChalkboardTeacher />
-    // },
-
+    {
+        id: 5,
+        title: 'Data Analysis',
+        icon: <FaChartLine />
+    },
     {
         id: 6,
-        title: 'Web Design',
+        title: 'Web Development',
         icon: <BsCodeSlash />
     },
     {
         id: 7,
-        title: 'Photography',
-        icon: <FaCameraRetro />
+        title: 'Data Visualization',
+        icon: <SiPowerbi />
     },
-    // {
-    //     id: 8,
-    //     title: 'Pinterest Virtual Assistant',
-    //     icon: <FaPinterest />
-    // }, 
+    {
+        id: 8,
+        title: 'Chatbot Development',
+        icon: <SiMicrosoft />
+    },
     {
         id: 9,
-        title: 'Video Editing',
-        icon: <FaVideo />
+        title: 'IoT Solutions',
+        icon: <FaNetworkWired />
     },
-    // {
-    //     id: 10,
-    //     title: 'Data Entry', 
-    //     icon: <BsClipboardData />
-    // },
+    {
+        id: 10,
+        title: 'Python Programming',
+        icon: <FaPython />
+    },
     {
         id: 11,
-        title: 'Ebook Writing',
-        icon: <FaTabletAlt />
+        title: 'TensorFlow Development',
+        icon: <SiTensorflow />
     },
-    // {
-    //     id: 12,
-    //     title: 'Audio Transcription',
-    //     icon: <AiFillAudio />
-    // },
+    {
+        id: 12,
+        title: 'Database Management',
+        icon: <FaDatabase />
+    },
     {
         id: 13,
-        title: 'Blog Posting',
-        icon: <FaRegNewspaper />
+        title: 'Cloud Solutions',
+        icon: <AiOutlineCloudServer />
     },
-
 ]
-
-// Uncomment your required service.
-// Couldn't find the required services? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new
-// You can also add on your own 😉.
