@@ -8,7 +8,6 @@
     'Java',
     'Git',
     'Canva',
-    'Ubuntu',
     'MySQL',
     'PostgreSQL',
     'Numpy',
